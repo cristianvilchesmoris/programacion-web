@@ -3,6 +3,16 @@
 /* CSS Document */
 
 .logotipo {
-    width: 150px;
-    padding: 10px 0;
+    width: 50px;
+    padding: 2px 1;
+}
+
+.iconos-redes-header {
+    width: 29px;
+    margin: 10px 10px;
+}
+
+.fotos-carrusel {
+    width: 1750px;
+    margin-top: 10px;
 }
