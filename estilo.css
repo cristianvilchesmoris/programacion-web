@@ -15,4 +15,10 @@
 .fotos-carrusel {
     height: 300px;
     width: 100%;
+    border-bottom: 10px;
+}
+
+.imagenes-oferta {
+    border-color: black;
+    border-right-width: 10px;
 }
