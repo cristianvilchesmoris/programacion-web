@@ -2,6 +2,12 @@
 
 /* CSS Document */
 
+body {
+    background-color: #ffdd90;
+    background-image: url("images/fondoweb1.jpg");
+    background-size: 100vmax;
+}
+
 .altura-a-b {
     padding: 100px 0;
 }
