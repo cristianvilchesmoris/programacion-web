@@ -2,6 +2,10 @@
 
 /* CSS Document */
 
+.altura-a-b {
+    padding: 100px 0;
+}
+
 .logotipo {
     width: 50px;
     padding: 2px 1;
@@ -18,7 +22,30 @@
     border-bottom: 10px;
 }
 
-.imagenes-oferta {
-    border-color: black;
-    border-right-width: 10px;
+.banner-video {
+    background-image: url("#");
+    padding: 200px 0;
+    position: relative;
+    text-align: center;
+}
+
+.banner-video img {
+    width: 80px;
+    height: 80px;
+    position: relative;
+}
+
+footer {
+    background-color: black;
+    padding: 100px 0;
+    text-align: left;
+}
+
+.logotipo-footer {
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+footer p {
+    color: #fff;
 }
