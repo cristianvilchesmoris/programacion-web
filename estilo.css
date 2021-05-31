@@ -9,12 +9,9 @@ body {
 }
 
 .banner-fl {
-    -o-object-fit: contain;
-    height: center;
-    max-height: 100%;
-    max-width: 100%;
-    object-fit: contain;
-    width: center;
+    height: 200px;
+    width: 100%;
+    border-bottom: 10px;
 }
 
 .altura-a-b {
